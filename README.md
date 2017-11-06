@@ -5,16 +5,16 @@ This is a template for KiCAD projects made with the help of Anool Mahidharia's [
 ## Project Structure
 
 template
- ↳3d_models     // .STEP and .WRL model files for all footprints
- ↳datasheets    // data sheets for components used
- ↳gerber        // final production files
- ↳images        // SVG images and 3D board renders
- ↳lib_sch       // schematic symbols
- ↳lib_fp.pretty // footprints
- ↳pdf           // schematics, board layouts, dimension drawings (in pdf format)
- ↳template.pro
- ↳template.sch
- ↳template.kicad_pcb
+* 3d_models     // .STEP and .WRL model files for all footprints
+* datasheets    // data sheets for components used
+* gerber        // final production files
+* images        // SVG images and 3D board renders
+* lib_sch       // schematic symbols
+* lib_fp.pretty // footprints
+* pdf           // schematics, board layouts, dimension drawings (in pdf format)
+* template.pro
+* template.sch
+* template.kicad_pcb
 
 ## Use as a new project
 
